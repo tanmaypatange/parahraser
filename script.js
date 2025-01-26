@@ -1,4 +1,4 @@
-const PROXY_URL = 'YOUR_WORKER_URL';
+const PROXY_URL = 'https://paraphraser.tanmay-patange.workers.dev';
 const inputText = document.getElementById('inputText');
 const outputText = document.getElementById('outputText');
 const paraphraseButton = document.getElementById('paraphraseButton');
